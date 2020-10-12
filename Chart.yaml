@@ -1,0 +1,8 @@
+apiVersion: v2
+type: application
+name: EFK
+version: 0.1.0
+description: A Helm chart for EFK stack
+maintainers:
+  - name: Jonathan Sapp
+  - github: jonathansapp08
